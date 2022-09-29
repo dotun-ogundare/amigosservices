@@ -30,5 +30,8 @@ The docker-compose.yml file references the particular repository of the images c
 CICD
 Github is used as the Version Control System for managing updates and versioning of the application the application
 
+
+![message queue](https://user-images.githubusercontent.com/50335434/193032886-2b3b78fa-dc12-43aa-9200-7e4151c67bf5.png)
+
  
 
